@@ -1,0 +1,2 @@
+include:
+  - component: gitlab.internal.sanger.ac.uk/ah37/security-scanning/default@~latest
